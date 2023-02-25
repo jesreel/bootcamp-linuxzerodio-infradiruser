@@ -1,3 +1,5 @@
+#!/bin/bash
+
 << coment
 Script para automatização de criação de usuários,grupos e permissões
 Exercício do Bootcamp Linux da DIO.
@@ -36,6 +38,7 @@ groupadd GRP_SEC
 echo -e "Grupo GRP_SEC ... OK!\n"
 
 
+
 echo "########################################"
 echo "####       CRIANDO USUARIOS        #####"
 echo -e "########################################\n"
@@ -63,6 +66,8 @@ useradd rogerio -m -s /bin/bash -p $(openssl passwd -crypt pw123) -G GRP_SEC
 echo "Usuários josefina, amanda, rogerio ... OK"
 echo -e "Usuários adicionados ao grupo GRP_SEC ... OK!\n"
  
+ 
+ 
 echo "########################################"
 echo "####      ATRIBUINDO PERMISSOES     ####"
 echo -e "########################################\n"
@@ -84,4 +89,3 @@ echo -e "Permissões de acesso atribuídas nos diretórios ... OK!\n"
 
 
 echo ".... Processo Finalizado!"
-
