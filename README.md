@@ -1,8 +1,11 @@
 # bootcamp-Linux do Zero DIO
 Projeto - Infraestrutura de Diretórios, Grupos e Usuários - ShellScript
 
-<br><br>
+<br>
 
+**Script do Projeto:** [script-estrutura-diretorios-grupos-usuarios.sh](script-estrutura-diretorios-grupos-usuarios.sh)
+
+<br><br>
 
 > # Requisitos
 
