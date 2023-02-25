@@ -1,2 +1,4 @@
-# bootcamp-linuxzerodio-infradiruser
-Projeto Bootcamp Linux DIO - Infraestrutura de Diretórios, Grupos e Usuários - ShellScript
+# bootcamp-Linux do Zero DIO
+Projeto - Infraestrutura de Diretórios, Grupos e Usuários - ShellScript
+
+
